@@ -7,11 +7,11 @@ Sample iOS app using Socket.io and WebRTC to make video calls.
 
 ## References
 
-[WebRTC](https://webrtc.org/)
-[Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift)
-[webrtc-socket-sample](https://github.com/plcart/webrtc-socket-sample)
-[RTC Playground](https://github.com/pedroartsimao/rtcplayground)
-[WebRTC Shim](https://github.com/plcart/webrtc-shim)
+[WebRTC](https://webrtc.org/)  
+[Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift)  
+[webrtc-socket-sample](https://github.com/plcart/webrtc-socket-sample)  
+[RTC Playground](https://github.com/pedroartsimao/rtcplayground)  
+[WebRTC Shim](https://github.com/plcart/webrtc-shim)  
 
 ## License
 ```
